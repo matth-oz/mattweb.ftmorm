@@ -1,0 +1,20 @@
+<?
+$MESS["PLAYER_FLN"] = "Имя и фамилия игрока:";
+$MESS["PLAYER_DOB"] = "Дата рождения:";
+$MESS["PLAYER_NN"] = "Имя на футболке:";
+$MESS["PLAYER_CITIZEN"] = "Гражданство:";
+$MESS["PLAYER_ROLE"] = "Амплуа:";
+$MESS["MATCHES_LIST_TITLE"] = "Матчи, в которых участвовал игрок #PLAYER_FN# #PLAYER_LN#";
+$MESS["GM_DATE"] = "Дата матча";
+$MESS["GM_TEAM"] = "Команда";
+$MESS["GM_CITY"] = "Город";
+$MESS["GM_PLAYER_GOALS_H3"] = "Голы игрока";
+$MESS["GM_PLAYER_CARDS"] = "Взыскания";
+$MESS["GM_PLAYER_GOALS_TTL"] = "Всего голов в играх:";
+$MESS["GM_PLAYER_CARDS_H3"] = "Взыскания игрока";
+$MESS["GM_PLAYER_CARD"] = "Взыскание";
+$MESS["GM_PLAYER_CARDS_TTL"] = "Всего взысканий в играх:";
+$MESS["LIST_LINK_TTL"] = "← К списку";
+$MESS["GM_PLAYER_NO_GOALS_TTL"] = "У игрока нет голов с текущем периоде";
+$MESS["GM_PLAYER_NO_CARDS_TTL"] = "У игрока нет взысканий с текущем периоде";
+$MESS[""] = "";

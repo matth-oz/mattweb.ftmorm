@@ -1,0 +1,15 @@
+.match-details, .add-btn-wrap{
+    width: 60%;
+}
+
+.match-details td:first-child{
+    text-align: left;
+}
+
+.match-details td, .add-btn-wrap{
+    text-align: center;
+}
+
+.add-btn-wrap{
+    margin-top: 1em;
+}

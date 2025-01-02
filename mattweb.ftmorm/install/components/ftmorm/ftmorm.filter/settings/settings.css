@@ -1,0 +1,17 @@
+/**/
+
+.bx-core-adm-dialog div.err-block, 
+#orm_fields_form div{
+    color: red;
+    margin-bottom: .5rem;
+}
+
+.adm-workarea label.frm-item{
+    display: block;
+    margin-bottom: .5rem;
+}
+
+.bx-core-adm-dialog span.title{
+    font-weight: 550;
+    line-height: 1.5rem;
+}

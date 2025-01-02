@@ -1,0 +1,25 @@
+<?
+$MESS["COMP_PAGE_TITLE"] = "Матчи команды #OUR_TEAM_NAME#";
+$MESS["COMP_PAGE_HDR"] = "Матчи команды #OUR_TEAM_NAME# c #DATE_MATCH_EARLIEST# по #DATE_MATCH_LATEST#";
+$MESS["FILTER_ALL_CITIES"] = "Все города";
+$MESS["FILTER_CITY_LABEL"] = "Город:";
+$MESS["FILTER_GMD_START_LABEL"] = "Начало периода:";
+$MESS["FILTER_GMD_FINISH_LABEL"] = "Конец периода:";
+$MESS["FILTER_SUBMIT_LABEL"] = "Фильтровать";
+$MESS["FILTER_RESET_LABEL"] = "Сбросить";
+$MESS["TH_NUMB_COL_LABEL"] = "Номер";
+$MESS["TH_DATE_COL_LABEL"] = "Дата проведения";
+$MESS["TH_CITY_COL_LABEL"] = "Город";
+$MESS["TH_TEAM_COL_LABEL"] = "Команда-соперник";
+$MESS["TH_SCORE_COL_LABEL"] = "Счет";
+$MESS["TH_AUTO_GOALS_COL_LABEL"] = "Автоголы";
+$MESS[""] = "";
+$MESS[""] = "";
+$MESS[""] = "";
+$MESS[""] = "";
+$MESS[""] = "";
+$MESS[""] = "";
+$MESS[""] = "";
+$MESS[""] = "";
+$MESS[""] = "";
+$MESS[""] = "";

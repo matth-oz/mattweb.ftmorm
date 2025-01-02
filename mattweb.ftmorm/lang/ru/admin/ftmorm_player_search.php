@@ -1,0 +1,6 @@
+<?php
+$MESS['FTMORM_PLAYERS_SEARCH_TITLE'] = 'Поиск игроков';
+$MESS['FTMORM_PLAYERS_ENTITY_FIRST_NAME_FIELD'] = 'Имя игрока';
+$MESS['FTMORM_PLAYERS_ENTITY_LAST_NAME_FIELD'] = 'Фамилия игрока';
+$MESS['FTMORM_PLAYERS_CHOOSE_PLAYER'] = 'Выбрать';
+$MESS['FTMORM_PLAYERS_SEARCH_EMPTY_PARAMS'] = 'Необходымые параметры не переданы';

@@ -1,0 +1,10 @@
+<?php
+$MESS["FTMORM_PLAYERS_LIST_TITLE"] = "Список игроков";
+$MESS['PLAYERS_ENTITY_FIRST_NAME_FIELD'] = "Имя игрока";
+$MESS['PLAYERS_ENTITY_LAST_NAME_FIELD'] = "Фамилия игрока";
+$MESS['PLAYERS_ENTITY_NICKNAME_FIELD'] = "Имя на футболке";
+$MESS['PLAYERS_ENTITY_CITIZENSHIP_FIELD'] = "Гражданство";
+$MESS['PLAYERS_ENTITY_DOB_FIELD'] = "Дата рождения";
+$MESS['PLAYERS_ENTITY_ROLE_FIELD'] = "Амплуа";
+$MESS['FTMORM_ADMIN_DELETE_PLAYER_CONFIRM'] = 'Удалить игрока?';
+$MESS["FTMORM_PLAYERS_ADD_TITLE"] = "Добавить игрока";

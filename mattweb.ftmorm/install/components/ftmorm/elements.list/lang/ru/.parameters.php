@@ -1,0 +1,31 @@
+<?
+$MESS["ORM_CLASS_NAME_TITLE"] = "Имя ORM-класса для показа";
+$MESS["ORM_CLASS_S_FIELDS_TITLE"] = "Поля ORM-класса для показа";
+$MESS["ORM_CLASS_R_FIELDS_TITLE"] = "Relation-поля ORM-класса для показа";
+$MESS["ELEMENTS_COUNT_TITLE"] = "Количество записей на странице";
+$MESS["SHOW_ELEMENT_ID_TITLE"] = "Вывести идентификаторы записей";
+$MESS["SORT_BY_TITLE"] = "Поле для сортировки записей";
+$MESS["SORT_ORDER_TITLE"] = "Направление для сортировки записей";
+$MESS["FILTER_NAME_TITLE"] = "Фильтр";
+$MESS["DETAIL_URL_TITLE"] = "URL страницы детального просмотра";
+$MESS["FTMORM_SORT_DESC_ASC"] = "По возрастанию";
+$MESS["FTMORM_SORT_DESC_DESC"] = "По убыванию";
+$MESS["PAGER_ELEMENTS_DESC"] = "Элементы";
+$MESS["DEBUG_MODE_TITLE"] = "Включить режим отладки";
+$MESS["PAGE_HEADER_TITLE"] = "Заголовок страницы";
+$MESS["ACTIVE_DATE_FORMAT_DESC"] = "Формат показа даты";
+$MESS["ELEMENTS_ID_TITLE"] = "Идентификатор записи";
+$MESS["PAGER_TEMPLATE_TITLE"] = "Шаблон постраничной навигации";
+$MESS["PAGER_TITLE_TITLE"] = "Заголовок постраничной навигации";
+$MESS["PAGER_SHOW_ALWAYS_TITLE"] = "Всегда показывать постраничную навигацию";
+$MESS["PAGER_SHOW_ALL_TITLE"] = "Показывать ссылку «Все»";
+$MESS["DISPLAY_TOP_PAGER_TITLE"] = "Показывать постраничную навигацию перед списком";
+$MESS["DISPLAY_BOTTOM_PAGER_TITLE"] = "Показывать постраничную навигацию после списка";
+$MESS["DESC_PAGER_SETTINGS"] = "Настройки постраничной навигации";
+
+$MESS[""] = "";
+$MESS[""] = "";
+$MESS[""] = "";
+$MESS[""] = "";
+$MESS[""] = "";
+$MESS[""] = "";

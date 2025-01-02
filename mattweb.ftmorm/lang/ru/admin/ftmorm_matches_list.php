@@ -1,0 +1,13 @@
+<?php
+//$MESS["FTMORM_MATCHES_LIST_TITLE"] = "Матчи команды #OUR_TEAM_NAME# c #FIRST_DATE# по #LAST_DATE#";
+$MESS["FTMORM_MATCHES_LIST_TITLE"] = "Матчи команды #OUR_TEAM_NAME#";
+$MESS["FTMORM_MATCHES_LIST_ROW_NUMBER"] = "Номер";
+$MESS["FTMORM_MATCHES_LIST_MATCH_DATE"] = "Дата проведения";
+$MESS["FTMORM_MATCHES_LIST_CITY"] = "Город";
+$MESS["FTMORM_MATCHES_LIST_TM_NAME"] = "Команда-соперник";
+$MESS["FTMORM_MATCHES_LIST_GAME_SCORE"] = "Счет";
+$MESS["FTMORM_MATCHES_LIST_AUTO_GOALS"] = "Автоголы";
+$MESS["FTMORM_TEAMS_ADD_TITLE"] = "Добавить новый матч";
+$MESS["FTMORM_MATCHES_LIST_MATCH_ID"] = "ID матча";
+$MESS["FTMORM_MATCHES_LIST_WO_PLAYERS"] = "Матчи без игроков";
+$MESS["FTMORM_MATCHES_LIST_W_PLAYERS"] = "Матчи с заполненными игроками";

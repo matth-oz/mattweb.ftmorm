@@ -1,0 +1,83 @@
+.filter-form.vertical{
+    display: block;
+}
+
+.filter-form.vertical .filter-field-wrap{
+    display: flex;
+    align-items: baseline;
+}
+
+.filter-field-wrap label{
+    padding: 10px;
+}
+
+.filter-field-wrap select[multiple]{
+    width: 300px;
+}
+
+.filter-field-wrap input[type="submit"]{
+    margin-right: 1.5rem;
+}
+
+.filter-form.horizontal{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.dn{
+    display: none;
+}
+
+/*text with tooltips*/
+.str-fld-wrap{
+    position: relative;
+}
+.str-fld-tooltip{
+    background: #ecf3fd;
+    border: 1px solid #b1b1b1;
+    border-radius: 3px;
+    padding: 3px 5px;
+    position: absolute;
+    z-index: 100;
+    bottom: auto;
+    width: 100%;
+}
+.tooltip-res{
+    display: block;
+    font-size: .8rem;
+    cursor: pointer;
+    margin: 3px 0;
+    padding: .3rem
+}
+
+.tooltip-res:hover{
+    background: #dde9fc;
+}
+
+/*text with tooltips*/
+
+/*range field*/
+.isr-input-wrap{
+    position: relative;
+}
+
+.isr-input-wrap span{
+    font-size: .7rem;
+}
+
+.isr-input-cur-val{
+    margin-left: 1rem;
+    margin-top: -10px;
+    align-self: center;
+    font-size: .7rem;
+
+}
+
+.isr-input-vals{
+    display: flex;
+    justify-content: space-between;
+}
+/*range field*/
+
+
+
